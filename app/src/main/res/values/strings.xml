@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Paperless Agent</string>
+    <string name="start">start</string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+    <string name="finish">finish</string>
+    <string name="first_screen">First Screen</string>
+    <string name="last_screen">Summary</string>
+    <string name="map_address">Location and address</string>
+    <string name="sell_buy">Sell or Rent</string>
+    <string name="form_ownership">Form of ownership</string>
+    <string name="price">Property type, Availability, Price</string>
+    <string name="ownership">Ownership type</string>
+    <string name="freehold">Freehold</string>
+    <string name="leasehold">Leasehold</string>
+    <string name="flat">Flat</string>
+    <string name="house">House</string>
+    <string name="other_property_type">Others</string>
+    <string name="Informations01">Property Details</string>
+    <string name="choose_a_option">Choose a option</string>
+    <string name="correct_address">Correct Address</string>
+    <string name="information_sell">Certificates, Appliance, Renovation</string>
+    <string name="photos">Photos</string>
+    <string name="send">send</string>
+    <string name="comment">Comment</string>
+
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_ownership_options" >
+        <item>@string/choose_a_option</item>
+        <item>@string/freehold</item>
+        <item>@string/leasehold</item>
+    </string-array>
+
+    <string-array name="array_property_type_options" >
+        <item>@string/choose_a_option</item>
+        <item>@string/flat</item>
+        <item>@string/house</item>
+        <item>@string/other_property_type</item>
+    </string-array>
+
+
+</resources>
